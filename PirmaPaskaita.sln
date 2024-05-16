@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirmaUzduotis", "PirmaPaskaita\PirmaUzduotis.csproj", "{E293C788-359B-4F1D-A13E-26F665B97FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntraUzduotis", "AntraUzduotis\AntraUzduotis.csproj", "{80F5CF11-391F-4A2B-A747-C540B1A4B7CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E293C788-359B-4F1D-A13E-26F665B97FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E293C788-359B-4F1D-A13E-26F665B97FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E293C788-359B-4F1D-A13E-26F665B97FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E293C788-359B-4F1D-A13E-26F665B97FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F5CF11-391F-4A2B-A747-C540B1A4B7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F5CF11-391F-4A2B-A747-C540B1A4B7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F5CF11-391F-4A2B-A747-C540B1A4B7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F5CF11-391F-4A2B-A747-C540B1A4B7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF063EE-8ED1-426B-BB81-D3F008E39814}
+	EndGlobalSection
+EndGlobal
